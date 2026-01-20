@@ -1,0 +1,4 @@
+{
+  "name": "ComiCast Web",
+  "description": "A smart comic reader that uses AI to detect text bubbles, sort them by reading order (Manga/Webtoon), and read them aloud."
+}
